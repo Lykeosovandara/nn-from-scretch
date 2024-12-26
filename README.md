@@ -10,6 +10,6 @@ Understand math and implement in numpy.
 1. Scalars, Vectors, Matrices and Tensors
 2. Basic Operations on Tensors
 
-## BASIC OPERATION IN PYTHON
+## WOW 3 LAYER NET WORK
 
 ## IMPLEMENT MNIST
